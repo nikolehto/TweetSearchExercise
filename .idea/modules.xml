@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TweetSearchExercise.iml" filepath="$PROJECT_DIR$/TweetSearchExercise.iml" />
+      <module fileurl="file://D:\Git\TweetSearchExercise\TweetSearchExercise.iml" filepath="D:\Git\TweetSearchExercise\TweetSearchExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Git\TweetSearchExercise\app\app.iml" filepath="D:\Git\TweetSearchExercise\app\app.iml" />
     </modules>
   </component>
 </project>
